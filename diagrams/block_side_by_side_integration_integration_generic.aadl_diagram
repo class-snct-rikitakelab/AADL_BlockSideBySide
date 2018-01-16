@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="1">
+  <element id="0" manual="true">
+    <bo>
+      <seg>classifier</seg>
+      <seg>integration.generic</seg>
+    </bo>
+  </element>
+  <config>
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>block_side_by_side::integration::integration.generic</seg>
+    </context>
+  </config>
+</diagram:Diagram>
